@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\LoL_Open\LoL_Open\bin\Debug\LoL_Open.exe
+d:\documents\visual studio 2010\Projects\LoL_Open\LoL_Open\bin\Debug\LoL_Open.pdb
+d:\documents\visual studio 2010\Projects\LoL_Open\LoL_Open\obj\x86\Debug\LoL_Open.exe
+d:\documents\visual studio 2010\Projects\LoL_Open\LoL_Open\obj\x86\Debug\LoL_Open.pdb
